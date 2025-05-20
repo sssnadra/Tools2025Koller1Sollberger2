@@ -8,9 +8,7 @@ public class Main {
 
         }
     public void thisIsANewMethod() {
-        int i = 0;
-        while(i == 0){
-            return;
-        }
+
+        System.out.println("yuppi-duppi-duuu");
     }
-}
+    }
