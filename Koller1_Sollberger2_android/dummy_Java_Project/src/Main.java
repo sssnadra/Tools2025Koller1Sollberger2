@@ -7,5 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() { 
+
+        System.out.println("yuppi-duppi-duuu");
+    }
     }
