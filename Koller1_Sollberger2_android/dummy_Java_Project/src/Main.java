@@ -7,5 +7,10 @@ public class Main {
     public static void main(String[] args) {
 
         }
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+        int i = 0;
+        while(i == 0){
+            return;
+        }
     }
+}
