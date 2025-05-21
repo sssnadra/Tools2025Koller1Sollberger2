@@ -16,5 +16,6 @@ public class Main {
         System.out.println("further added code line");
     }
 
-
+    public void bugFix() {
+        System.out.prinln("bug is fixed hihi");
     }
