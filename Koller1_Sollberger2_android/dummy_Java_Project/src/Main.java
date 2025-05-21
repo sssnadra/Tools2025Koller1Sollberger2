@@ -10,5 +10,11 @@ public class Main {
     public void thisIsANewMethod() {
 
         System.out.println("yuppi-duppi-duuu");
+
+        System.out.println("added code line");
+
+        System.out.println("further added code line");
     }
+
+
     }
