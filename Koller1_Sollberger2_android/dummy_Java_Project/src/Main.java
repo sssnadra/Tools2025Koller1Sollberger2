@@ -11,4 +11,10 @@ public class Main {
 
         System.out.println("yuppi-duppi-duuu");
     }
+
+    public void bugFix() {
+        System.out.prinln("bug is fixed hihi");
     }
+    }
+    
+
